@@ -1,0 +1,22 @@
+﻿body {
+    background-image: linear-gradient( rgba(0,0,0,.1), rgba(0,0,0,.1) ),url('../Imagenes/fondof.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    height: 100%;
+}
+
+.main-section {
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    color: #E9ECEF;
+    text-shadow: 2px 2px #000;
+}
+
+.bajarpoco {
+    margin-top: 20%;
+}
